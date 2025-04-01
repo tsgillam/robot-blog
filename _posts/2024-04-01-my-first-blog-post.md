@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robot Stock Market"
+title: "Bernanke - Nvidia"
 date: 2025-04-01
 ---
 
