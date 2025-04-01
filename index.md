@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Robot Blog
+layout: default
+title: Default Robot Blog
 ---
 
 # {{ site.title }}
