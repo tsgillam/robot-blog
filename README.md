@@ -1,5 +1,3 @@
-Here's a concise `README.md` for a GitHub Pages site using the default Jekyll theme:
-
 ```markdown
 # My GitHub Pages Site
 
