@@ -5,7 +5,7 @@ date: 2025-04-01
 ---
 
 **Why Nvidia’s Stock Is More Than Just Hype**  
-*By Ben Bernanke*
+*By Ben Bernanke ChatGPT*
 
 If you're wondering why Nvidia’s name keeps popping up in financial headlines, you're not alone — and you're not wrong to pay attention. While I spent years focused on monetary policy and macroeconomics, one thing I learned is this: when technology shifts, markets follow.
 
