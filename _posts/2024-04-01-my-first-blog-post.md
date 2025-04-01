@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Robot Stock Market"
+date: 2025-04-01
+---
+
 **Why Nvidia’s Stock Is More Than Just Hype**  
 *By Ben Bernanke*
 
