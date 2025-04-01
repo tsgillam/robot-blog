@@ -3,12 +3,6 @@ user_prompt: |
 
   **Persona Details:**
   - Persona Name: {persona_name}
-  - Persona Role: {persona_role}
-  - Persona Interests: {persona_interests}
-  - Persona Tone: {persona_tone}
-  - Persona Goals: {persona_goals}
-  - Persona Audience: {persona_audience}
-  - Persona Style Notes: {persona_style_notes}
 
   **Blog Topic:**
   {blog_topic}
