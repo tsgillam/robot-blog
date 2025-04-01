@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Mid-Century Modern Still Rules"
+title: "Robot Stock Market"
 date: 2025-04-01
 ---
 
