@@ -1,0 +1,16 @@
+user_prompt: |
+  I want you to write a blog post using the persona and topic details I’ve provided below. Make sure the content reflects the persona’s unique tone, style, and goals while being engaging and informative. Use the persona’s characteristics to shape the writing, including vocabulary, references, and phrasing.
+
+  **Persona Details:**
+  - Persona Name: {persona_name}
+  - Persona Role: {persona_role}
+  - Persona Interests: {persona_interests}
+  - Persona Tone: {persona_tone}
+  - Persona Goals: {persona_goals}
+  - Persona Audience: {persona_audience}
+  - Persona Style Notes: {persona_style_notes}
+
+  **Blog Topic:**
+  {blog_topic}
+
+  Please write the blog post now, following the system’s instructions.
